@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//github.com/karthik9666.github.io/https://github.com/karthik9666/React-ToDo-app.git/static/css/main.b66afd70.css",
+    "main.js": "//github.com/karthik9666.github.io/https://github.com/karthik9666/React-ToDo-app.git/static/js/main.e16774c6.js",
+    "static/js/453.ffbcad76.chunk.js": "//github.com/karthik9666.github.io/https://github.com/karthik9666/React-ToDo-app.git/static/js/453.ffbcad76.chunk.js",
+    "index.html": "//github.com/karthik9666.github.io/https://github.com/karthik9666/React-ToDo-app.git/index.html",
+    "main.b66afd70.css.map": "//github.com/karthik9666.github.io/https://github.com/karthik9666/React-ToDo-app.git/static/css/main.b66afd70.css.map",
+    "main.e16774c6.js.map": "//github.com/karthik9666.github.io/https://github.com/karthik9666/React-ToDo-app.git/static/js/main.e16774c6.js.map",
+    "453.ffbcad76.chunk.js.map": "//github.com/karthik9666.github.io/https://github.com/karthik9666/React-ToDo-app.git/static/js/453.ffbcad76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b66afd70.css",
+    "static/js/main.e16774c6.js"
+  ]
+}
